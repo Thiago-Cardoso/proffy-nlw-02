@@ -48,7 +48,7 @@
 
 ## Features
 
-- **Web - Online study platform:** Online study platform, the teacher sells his working hours in several subjects.
+- **Web:** Online study platform, the teacher sells his working hours in several subjects.
 
 - **Mobile:** In the Mobile application allows you to search the times of classes that have been scheduled
 
